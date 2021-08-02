@@ -10,4 +10,16 @@ $ git clone https://github.com/Akalanka-1996/image_splicing_detection
 $ cd image_splicing_detection
 ```
 
-In order to run this application, it is mandatory to have installed [python](https://www.python.org/) and [node](https://nodejs.org/en/) in your system.
+In order to run this application, it is **mandatory** to have installed [python](https://www.python.org/) and [node](https://nodejs.org/en/) in your system.
+
+To run the **server.js** file, please execute following command.
+
+```
+$ node server.js
+```
+
+Execute following command to run the pyhton file.
+
+```
+$ python prediction.py
+```
