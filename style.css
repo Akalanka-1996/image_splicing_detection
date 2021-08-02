@@ -1,0 +1,45 @@
+body {
+    margin: auto;
+    width: 80%;
+    background-repeat: no-repeat;
+    height: 94vh;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(175deg, rgba(2, 0, 36, 1) 0%, rgba(9, 19, 121, 1) 49%, rgba(0, 212, 255, 1) 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.nav {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.input-image {
+    background-color: grey;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.result {
+    height: 100px;
+    width: 500px;
+    background-color: #fff;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    margin-left: 130px;
+}
+
+#footer {
+    font-family: sans-serif;
+    position: fixed;
+    margin-top: 100%;
+
+    
+}
