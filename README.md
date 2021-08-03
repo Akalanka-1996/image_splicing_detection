@@ -45,3 +45,5 @@ The result of a **spliced** image would be like follows.
 ![](images/sp.png)
 
 
+### model building
+
