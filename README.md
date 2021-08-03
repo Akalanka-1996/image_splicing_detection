@@ -27,8 +27,8 @@ Then go to the localhost:8080 and upload an image (JPG or PNG) through the form.
 
 If the uploaded image is an authentic one, the result wolud be as follows.
 
-![](images/au.png)
+
 
 The result of a spliced image would be like follows.
 
-![](images/sp.png)
+
