@@ -51,3 +51,7 @@ Convolutional Neural Networks (CNN) has been used to build the model. Here, we h
 
 ### dataset
 
+[CASIA 1](https://www.kaggle.com/sophatvathana/casia-dataset) is used to train this model. It has an ample amount of both spliced and authentic images.
+
+### Flask API
+
