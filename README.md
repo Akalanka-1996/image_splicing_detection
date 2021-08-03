@@ -18,7 +18,7 @@ To run the **server.js** file, please execute following command.
 $ node server.js
 ```
 
-Execute following command to run the pyhton file.
+Execute following command to run the **python** file.
 
 ```
 $ python prediction.py
