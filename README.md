@@ -45,11 +45,11 @@ The result of a **spliced** image would be like follows.
 ![](images/sp.png)<br><br>
 
 
-### model building
+### Model building
 
 Convolutional Neural Networks (CNN) has been used to build the model. Here, we have two convolutional layers and one max-pooling layer. We defined an early stop and the trained model is saved in **h5** format.
 
-### dataset
+### Dataset
 
 [CASIA 1](https://www.kaggle.com/sophatvathana/casia-dataset) is used to train this model. It has an ample amount of both spliced and authentic images.
 
