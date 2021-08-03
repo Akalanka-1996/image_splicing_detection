@@ -27,4 +27,4 @@ Then go to the localhost:8080 and upload an image (JPG or PNG) through the form.
 
 If the uploaded image is an authentic one, the result wolud be as follows.
 
-![](https://github.com/[Akalanka-1996]/[image_splicing_detection]/blob/[main]/images/au.jpg?raw=true)
+![](images/au.png)
