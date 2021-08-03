@@ -55,4 +55,4 @@ Convolutional Neural Networks (CNN) has been used to build the model. Here, we h
 
 ### Flask API
 
-In order to handle requests and responses between front-end and the back-end, a flask API was built. User uploads an image thriugh web interface and the uploaded image will be sent to the back-end in binary format. 
+In order to handle requests and responses between front-end and the back-end, a [flask](https://flask.palletsprojects.com/en/2.0.x/) API was built. User uploads an image thriugh web interface and the uploaded image will be sent to the back-end in binary format. The saved model in h5 format is loaded into the flask application. The result of a particular image will be sent beck to the front-end and displayed to the user.
