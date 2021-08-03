@@ -47,3 +47,4 @@ The result of a **spliced** image would be like follows.
 
 ### model building
 
+Convolutional Neural Networks (CNN) has been used to build the model. Here, we have two convolutional layers and one max-pooling layer. We defined an early stop and the trained model is saved in **h5** format.
