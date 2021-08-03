@@ -23,6 +23,8 @@ Execute following command to run the pyhton file.
 ```
 $ python prediction.py
 ```
+
+
 Then go to the localhost:8080 and upload an image (JPG or PNG) through the form. When you click the submit button, the respective result for a particular image will be displayed.
 
 
